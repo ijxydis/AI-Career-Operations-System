@@ -6,31 +6,13 @@ This folder contains workflow diagrams and process maps used within the AI Caree
 
 ### AI Career Operations System Workflow
 
+![AI Career Operations System Workflow](AI-Career-Operations-System-Workflow.png)
+
 Illustrates the end-to-end process from job opportunity intake through application tracking and follow-up management.
 
-**Current Diagram:**
+## Future Diagrams
 
-- AI-Career-Operations-System-Workflow.png
-
-## Workflow Overview
-
-```text
-Job Alert Received
-        ↓
-Make Automation Intake
-        ↓
-Job Evaluation & Scoring
-        ↓
-Resume Optimization
-        ↓
-Cover Letter Generation
-        ↓
-Manual Review & Approval
-        ↓
-Application Submission
-        ↓
-Application Tracking
-        ↓
-Follow-Up Management
-        ↓
-Outcome Tracking
+- Job Alert Intake Workflow
+- Resume Optimization Workflow
+- Application Tracking Workflow
+- Automation Architecture Diagram
