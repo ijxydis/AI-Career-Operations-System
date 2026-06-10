@@ -1,14 +1,19 @@
-# Workflow Diagrams
+Workflow Diagrams
 
-This folder contains visual representations of workflows, processes, and system interactions.
+This folder contains workflow diagrams and process maps used within the AI Career Operations System.
 
-## Purpose
+Included Diagrams
 
-Workflow diagrams provide a visual overview of how information, documents, and decisions move through the AI Career Operations System.
+AI Career Operations System Workflow
 
-## Diagram Types
+Illustrates the end-to-end process from job opportunity intake through application tracking and follow-up management.
 
-- Process maps
-- Workflow diagrams
-- System flowcharts
-- Data flow diagrams
+Future Diagrams
+
+• Job Alert Intake Workflow
+
+• Resume Optimization Workflow
+
+• Application Tracking Workflow
+
+• Automation Architecture Diagram
