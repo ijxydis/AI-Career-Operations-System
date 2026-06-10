@@ -22,3 +22,8 @@ Automation Architecture documentation explains how systems, tools, and workflows
 - Data flows
 - Automation workflows
 - Integration design
+- 
+## Current Artifacts
+
+- AI-Career-Operations-System-Architecture.png
+- Make-Scenario-Screenshot.png
