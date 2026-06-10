@@ -30,3 +30,12 @@ Automation Architecture documentation explains how systems, tools, and workflows
 ![AI Career Operations System Architecture](AI-Career-Operations-System-Architecture.png)
 
 Illustrates the technologies, integrations, data flows, automation components, and operational processes that support the AI Career Operations System.
+
+## Make Job Intake Workflow
+
+![Make Job Intake Workflow](Make_Job_Intake.png)
+
+## Spreadsheet Example
+
+![Spreadsheet Example](Spreadsheet1.png)
+![Spreadsheet Example](Spreadsheet2.png)
