@@ -24,6 +24,6 @@ Automation Architecture documentation explains how systems, tools, and workflows
 - Integration design
 - 
 ## Current Artifacts
+![AI Career Operations System Architecture](AI-Career-Operations-System-Architecture.png)
 
-- AI-Career-Operations-System-Architecture.png
-- Make-Scenario-Screenshot.png
+Illustrates the technologies, integrations, data flows, automation components, and operational processes that support the AI Career Operations System.
